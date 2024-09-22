@@ -1,2 +1,3 @@
 # bin
-Custom scripts 📜
+
+![bin](./media/bin.png)
